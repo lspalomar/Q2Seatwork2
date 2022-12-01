@@ -1,0 +1,30 @@
+h1{
+	font-family: 'Fontdiner Swanky', cursive;
+	font-size: 100px
+}
+td{
+	font-family: 'Gamja Flower', cursive;
+	font-size: 40px;
+	text-shadow: 2px 2px 4px mistyrose;
+	text-transform: capitalize;
+}
+th{
+	font-family: 'Griffy', cursive;
+	font-size: 30px;
+}
+table,th,td{
+	border: 1px black;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: palegoldenrod;
+}
+img{
+	width: 50%;
+	height: 50%;
+}
+h2{
+	text-align: center;
+	font-family: 'Fontdiner Swanky', cursive;
+	font-size: 50px
+}
